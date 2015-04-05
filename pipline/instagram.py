@@ -13,7 +13,7 @@ class InstagramPipline():
         :return:
         """
 
-        #TODO: Add login and data grab logic
+        # TODO: Add login and data grab logic
 
     def run(self):
         """
@@ -22,7 +22,7 @@ class InstagramPipline():
         :return:
         """
 
-        #TODO: Logic to get data, enforce request limits, and filter out duplicates
+        # TODO: Logic to get data, enforce request limits, and filter out duplicates
 
     def save(self):
         """
@@ -30,4 +30,4 @@ class InstagramPipline():
         :return:
         """
 
-        #TODO:Find place to save data, write logic to save images(Filter out video?)
+        # TODO:Find place to save data, write logic to save images(Filter out video?)
