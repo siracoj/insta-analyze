@@ -4,8 +4,10 @@
 Useful links:
 
 -https://instagram.com/developer/ ( instagram documentation )
+
 -https://api.instagram.com/v1/media/popular?client_id=32a5ddcbadd8408b9cca6937ee49df95 ( Sample of the data we would get)
 
+========================================================
 
 Things to remember:
 
@@ -13,6 +15,7 @@ Things to remember:
 
 -The application needs it's own account
 
+========================================================
 
 Instagram API Registration keys:
 
