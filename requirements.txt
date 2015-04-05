@@ -1,1 +1,2 @@
 python-instagram
+praw
