@@ -30,8 +30,17 @@ WEBSITE URL	http://github.com/siracoj
 
 REDIRECT URI	http://informativemurdercartoons.com
 
-=====================================
+======================================
 ======================================
 
-Reddit Info:
+##Reddit Info:
+
 https://praw.readthedocs.org/en/v2.1.21/
+
+======================================
+======================================
+
+##Image processing w/ python
+
+http://scikit-image.org/docs/stable/
+
