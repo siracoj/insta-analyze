@@ -3,7 +3,7 @@ __author__ = 'jsiraco'
 import settings
 
 
-class InstagramPipline():
+class InstagramPipeline():
 
     data = {}
 
