@@ -29,3 +29,9 @@ CLIENT SECRET	48872a7263db4232a5c48ee61b1945f0
 WEBSITE URL	http://github.com/siracoj
 
 REDIRECT URI	http://informativemurdercartoons.com
+
+=====================================
+======================================
+
+Reddit Info:
+https://praw.readthedocs.org/en/v2.1.21/
