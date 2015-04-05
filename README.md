@@ -7,6 +7,8 @@ Useful links:
 
 -https://api.instagram.com/v1/media/popular?client_id=32a5ddcbadd8408b9cca6937ee49df95 ( Sample of the data we would get)
 
+-https://instagram.com/developer/endpoints/ (information on how to get data[curl statements])
+
 ========================================================
 
 Things to remember:
