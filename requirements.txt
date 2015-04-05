@@ -1,2 +1,3 @@
-python-instagram
 praw
+python-instagram
+scikit-image
