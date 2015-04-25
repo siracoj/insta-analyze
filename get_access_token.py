@@ -9,11 +9,11 @@ try:
 except (ImportError, AttributeError):
     pass
 
-client_id = input("Client ID: ").strip()
-client_secret = input("Client Secret: ").strip()
-redirect_uri = input("Redirect URI: ").strip()
-raw_scope = input("Requested scope (separated by spaces, blank for just basic read): ").strip()
-scope = raw_scope.split(' ')
+client_id = '32a5ddcbadd8408b9cca6937ee49df95'
+client_secret = '48872a7263db4232a5c48ee61b1945f0'
+redirect_uri = 'http://google.com'
+raw_scope = False
+scope = False
 # For basic, API seems to need to be set explicitly
 if not scope or scope == [""]:
     scope = ["basic"]
